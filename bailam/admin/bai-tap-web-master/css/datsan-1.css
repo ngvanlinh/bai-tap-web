@@ -1,0 +1,206 @@
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.list-mn {
+    margin-bottom: 12px;
+}
+.over {
+    overflow: hidden;
+}
+.set-calendar-ball {
+    margin-top: 12px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.show-calendar {
+    margin-top: 12px;
+}
+div {
+    display: block;
+}
+.calendar-month {
+    width: 25%;
+    float: left;
+    border : 1px solid #ccc;
+    background: #ccc;
+    margin-top: 10px;
+}
+
+.time-calendar {
+    width: 75%;
+    float: left;
+    padding-left: 12px;
+}
+.show table ul li span.w span:nth-child(1) {
+    float: left;
+}
+.show table ul li span input, #choose_all_month input {
+    width: 21px;
+    height: 21px;
+    display: block;
+    font-size: 23px;
+    margin: 0;
+    margin-top: -2px;
+}
+ul li{
+	list-style: none;
+}
+
+li{
+	float : left;
+	margin-left: 9px;
+}
+.title-table table {
+    background: #242a33;
+    color: white;
+    margin: 0;
+}
+.chon{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.chon .ws .w input{
+	float: left;
+}
+.nav-pills>li+li {
+    margin-left: 9px;
+}
+.calendar-month h3,h4 {
+    text-align: center;
+    margin-top: 10px;
+}
+.dayInMonth{
+	float: left;
+}
+.bg {
+    background: #15a10d;
+    border-radius: 0;
+    color: white;
+}
+.show table ul li span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+    font-size: 18px;
+}
+.show table ul li span.w {
+    width: 45px;
+}
+.show table ul li span.ws {
+    width: auto;
+}
+.show table ul li span:nth-child(1) {
+    margin-top: -2px;
+    margin-right: 4px;
+}
+.show table ul li {
+    display: inline-block;
+    width: 23%;
+    float: left;
+}
+.show table tr td:last-child {
+    text-align: right;
+    vertical-align: -webkit-baseline-middle;
+}
+.show table tr td {
+    border: 0px solid #ccc;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 10px;
+}
+.w12{
+	
+}
+.nav {
+    padding-left: 0;
+    margin-bottom: 10px;
+    list-style: none;
+}
+.calendar-month .nav-pills > li.active > a span, .calendar-month .nav-pills > li.active > a {
+    color: white;
+}
+.calendar-month .nav-pills > li > a span {
+    display: block;
+    font-size: 23px;
+    color: #f03030;
+    margin-top: -3px;
+    font-weight: 700;
+}
+.calendar-month .nav-pills > li {
+    width: calc(90%/3);
+    float: left;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    text-transform: uppercase;
+}
+.select .row.row-s .col-s:nth-child(4) input {
+    padding-left: 63px;
+}
+.select .row.row-s .col-s span {
+    font-weight: 600;
+    position: absolute;
+    top: 7px;
+    left: 20px;
+}
+.list-show{
+	margin-top: 5px;
+}
+ul.ul.pull-right li#choose_all_month label {
+    padding-top: 3px;
+}
+label {
+    font-weight: normal;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+#TotalMoney{
+	padding-left: 80px;
+}
+.list-show ul li span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+    font-size: 18px;
+}
+
+.dete {
+    background: #f14747;
+}
+.list-show ul li span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+    font-size: 18px;
+}
+.bg {
+    background: #15a10d;
+    border-radius: 0;
+    color: white;
+}
+.list-show ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+	
